@@ -1,0 +1,18 @@
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font:100px;
+    color:navy;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font:75px;
+    color:navy;
+}
+
+body{
+    background-color: rgb(139, 139, 243);
+}
+img{
+    border: 2px solid #333; /* You can adjust the width and color of the border */
+  }

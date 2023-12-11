@@ -1,0 +1,38 @@
+/* h1{
+    font-family: Arial, Helvetica, sans-serif;
+} */
+
+.text-primary {
+        --bs-text-opacity: 1;
+        color: rgb(139, 139, 243)!important;
+
+}
+.text-secondary {
+    --bs-text-opacity: 1;
+    color: rgb(139, 139, 243)!important;
+  }
+  
+:root{
+
+    --bs-link-color: rgb(139, 139, 243)!important;
+    --bs-link-hover-color: rgb(139, 139, 243)!important;
+    --bs-code-color:rgb(139, 139, 243)!important;
+}
+
+
+.align-items-start {
+    align-items: right !important;
+  }
+  
+  .align-items-end {
+    align-items: right !important;
+  }
+.diff-bg{
+    background-color: rgb(139, 139, 243)!important;
+}
+.mb-5{
+  left;
+}
+.span.text-primary{
+right;
+}
